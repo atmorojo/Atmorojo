@@ -4,6 +4,7 @@ Building business software for inventory, sales, and organizational management.
 
 Projects:
 - Retail POS System
+- Organizational Voting System for youth organizations
 - School Alumni Tracer System
 - Halal Slaughter Traceability System
 
