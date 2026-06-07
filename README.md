@@ -1,11 +1,10 @@
-### Hi there 👋
+# Risyad Rais
 
-<!--
-**atmorojo/Atmorojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Building business software for inventory, sales, and organizational management.
 
-- 🔭 I’m currently working on my parents' SME business Information System.
-- 🌱 I’m currently learning PHP (especially Laravel), and how to think like a proper software engineer.
-- 👯 I’m looking to collaborate on PHP based projects. I'm okay doing Indonesian translation jobs too.
-- ⚡ Fun fact: I'm a shy bear...ded guy. Sometimes I feel like I'm a turtle inside :turtle:.
+Projects:
+- Retail POS System
+- School Alumni Tracer System
+- Halal Slaughter Traceability System
 
+Built to solve real operational needs in retail and community organizations.
